@@ -1,4 +1,9 @@
 {
   "symbol": "NC",
-  "address": "0xf0bC6e95f54c19Ca3F8F5AdeA2d3Bc2C4367BD96"
+  "address": "0xf0bC6e95f54c19Ca3F8F5AdeA2d3Bc2C4367BD96",
+  "overview":{
+        "en":"Based on the core concept of blockchain, NC will launch an intelligent investment and care system platform to help users rationally manage funds and venture capital.",
+        "zh":"基于区块链的核心理念， NC将推出智能投顾系统平台，帮助用户合理管理资金和风投控制。"
+  },
+  "published_on": "2018-06-10"
 }
